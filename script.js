@@ -1,3 +1,3 @@
 // Javascript file for Github
 //rohit
-console.log("hello rohit raj")
+console.log("hello rohit raj Karki")
