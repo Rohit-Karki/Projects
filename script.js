@@ -1,1 +1,1 @@
-Javascript file for Github
+// Javascript file for Github
